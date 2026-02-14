@@ -9,7 +9,7 @@ import java.util.stream.IntStream;
 public class Page2 {
 
 	public static void main(String[] args) {
-
+		//code2
 	}
 
 }
