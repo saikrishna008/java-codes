@@ -28,7 +28,7 @@ public class Page1 {
 //		Map<Boolean,Map<Integer,List<String>>>mp=a.stream().collect(Collectors.partitioningBy(x->x.length()%2==0,Collectors.groupingBy(String::length)));---> making collection to two parts
 //		System.out.println(mp);
 //		a.stream().sorted(Comparator.comparing(String::length).thenComparing(Comparator.reverseOrder())).forEach(System.out::println);
-
+//      fo
 	}
 
 }
